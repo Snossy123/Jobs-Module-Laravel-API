@@ -85,7 +85,7 @@ This document provides an overview of the enhancements and features implemented 
 - **Better Error Handling**: Improved exception management in repositories and services.
 - **Database Normalization**: Structured salary information in a separate table.
 - **Security Enhancements**: Middleware restrictions for job updates when applications exist.
-- **API Documentation**: Write Documentation for Developed API endpoints (check it here)[https://documenter.getpostman.com/view/39303300/2sAYQZGrdv#da6b7083-4961-4da7-8856-3efbc4730d39]
+- **API Documentation**: Write Documentation for Developed API endpoints [check it here](https://documenter.getpostman.com/view/39303300/2sAYQZGrdv#da6b7083-4961-4da7-8856-3efbc4730d39)
 ---
 
 ## Conclusion
